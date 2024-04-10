@@ -1,5 +1,5 @@
 {
-  products: [
+  "products": [
     {
         "model": "Product 1",
         "releaseDate": "2023-01-01",
